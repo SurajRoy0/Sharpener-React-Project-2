@@ -1,0 +1,17 @@
+.list-container {
+    padding: 10px;
+}
+.list {
+    display: flex;
+    background-color: white;
+    padding: 3px;
+    border: 1px solid black;
+    border-radius: 4px;
+    margin: 10px;
+}
+
+.text {
+    margin-left: 10px;
+    margin-bottom: 3px;
+    font-weight: 600;
+}
